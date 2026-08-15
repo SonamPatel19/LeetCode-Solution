@@ -1,44 +1,53 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        long low = 0;
-        long high = 0;
-
-        // low = maximum element
-        // high = total sum
-        for (int num : nums) {
-            low = Math.max(low, num);
-            high += num;
-        }
-
-        while (low <= high) {
-            long mid = low + (high - low) / 2;
-
-            if (canSplit(nums, k, mid)) {
-                // mid is possible, try smaller
-                high = mid - 1;
-            } else {
-                // mid is not possible, need larger
-                low = mid + 1;
+        int n=nums.length;
+        int low=Min(nums);
+        int high=sum(nums);
+        int ans=0;
+        while(low<=high){
+            int mid=(low+high)/2;
+            if(cansplit(nums,mid,k)){
+                ans=mid;
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
             }
         }
-
-        return (int) low;
+        return ans;
     }
-
-    public boolean canSplit(int[] nums, int k, long maxSum) {
-        long sum = 0;
-        int parts = 1;
-
-        for (int num : nums) {
-
-            if (sum + num > maxSum) {
-                parts++;
-                sum = num;
-            } else {
-                sum += num;
+    static int Min(int[] nums){
+        int min=Integer.MAX_VALUE;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]<min){
+                min=nums[i];
             }
         }
-
-        return parts <= k;
+        return min;
+    }
+    static int sum(int[] nums){
+        int sum=0;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
+        }
+        return sum;
+    }
+    static boolean cansplit(int[] nums,int mid,int k){
+        int splitarr=1;
+        int sum=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>mid) return false;
+            if(sum+nums[i]>mid){
+                splitarr+=1;
+                sum=nums[i];
+            }
+            else{
+                sum+=nums[i];
+            }
+        }
+        if(splitarr>k) {
+            return false;
+        }
+           return true;
     }
 }
