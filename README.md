@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1901-find-a-peak-element-ii) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
