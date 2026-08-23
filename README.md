@@ -70,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2652-sum-multiples) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
