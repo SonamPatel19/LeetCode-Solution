@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0344-reverse-string) |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
