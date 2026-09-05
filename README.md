@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
