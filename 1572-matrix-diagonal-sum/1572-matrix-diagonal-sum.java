@@ -6,14 +6,11 @@ class Solution {
         //int row=0;
         //int col=n-1;
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(i==j){
-                    sum+=mat[i][j];
-                }
-                if(i+j==n-1 && i!=j){
-                    sum+=mat[i][j];
-                }
-            }
+            sum+=mat[i][i];
+            //sd
+            if(i!=n-i-1){
+            sum+=mat[i][n-1-i];
+        }
         }
         return sum;
     }
