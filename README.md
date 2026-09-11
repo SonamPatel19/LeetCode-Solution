@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1901-find-a-peak-element-ii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1051-height-checker) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
