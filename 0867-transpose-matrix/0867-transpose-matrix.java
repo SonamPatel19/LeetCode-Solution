@@ -8,7 +8,7 @@ class Solution {
                 if(i!=j){
                     ans[j][i]=matrix[i][j];
                 }
-                else if(i==j){
+                else {
                     ans[i][j]=matrix[i][j];
                 }
             }
