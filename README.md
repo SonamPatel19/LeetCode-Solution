@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2652-sum-multiples) |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
