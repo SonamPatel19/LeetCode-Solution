@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0867-transpose-matrix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2652-sum-multiples) |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
