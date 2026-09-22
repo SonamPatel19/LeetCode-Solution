@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1051-height-checker) |
