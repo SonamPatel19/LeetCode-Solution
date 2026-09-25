@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1901-find-a-peak-element-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
