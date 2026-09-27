@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0896-monotonic-array) |
+| [0932-beautiful-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1051-height-checker) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0932-beautiful-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0932-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0932-beautiful-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0932-beautiful-array) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2652-sum-multiples) |
