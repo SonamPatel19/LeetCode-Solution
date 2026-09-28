@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
