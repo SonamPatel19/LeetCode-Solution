@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
