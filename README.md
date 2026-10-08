@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2129-capitalize-the-title) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
