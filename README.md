@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2129-capitalize-the-title) |
