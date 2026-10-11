@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2129-capitalize-the-title) |
 ## Stack
