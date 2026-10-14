@@ -314,4 +314,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
