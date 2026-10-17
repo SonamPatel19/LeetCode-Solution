@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1325-delete-leaves-with-a-given-value) |
 ## DP on Trees
 |  |
@@ -351,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
