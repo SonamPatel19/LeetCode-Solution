@@ -22,6 +22,6 @@ class Solution {
         int leftNode=maxDepth(root.left);
         int rightNode=maxDepth(root.right);
 
-        return Math.max(leftNode,rightNode)+1;
+        return 1+Math.max(leftNode,rightNode);
     }
 }
