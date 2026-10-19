@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
