@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -379,5 +382,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
