@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0932-beautiful-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0932-beautiful-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2652-sum-multiples) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -388,4 +393,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
