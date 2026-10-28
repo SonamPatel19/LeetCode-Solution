@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
@@ -305,10 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Geometry
