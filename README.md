@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
