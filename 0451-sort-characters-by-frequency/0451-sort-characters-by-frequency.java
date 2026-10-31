@@ -1,20 +1,32 @@
 class Solution {
     public String frequencySort(String s) {
+        
         HashMap<Character,Integer>map=new HashMap<>();
+        int maxfreq=0;
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
+            maxfreq=Math.max(maxfreq,map.get(ch));
         }
-          List<Character>list=new ArrayList<>(map.keySet());
-          Collections.sort(list,(a,b)->map.get(b)-map.get(a));
 
-          StringBuilder ans=new StringBuilder();
+        List<Character>bucket[]=new ArrayList[maxfreq+1];
+        for(int i=0;i<=maxfreq;i++){
+            bucket[i]=new ArrayList<>();
+        }
+         
+         for(Map.Entry<Character,Integer>entry:map.entrySet()){
+            bucket[entry.getValue()].add(entry.getKey());
+         }
 
-          for(char ch:list){
-            for(int i=0;i<map.get(ch);i++){
-                ans.append(ch);
+         StringBuilder ans=new StringBuilder();
+
+         for(int freq=maxfreq;freq>0;freq--){
+            for(char ch:bucket[freq]){
+                for(int i=0;i<freq;i++){
+                    ans.append(ch);
+                }
             }
-          }
-          return ans.toString();
-}
+         }
+         return ans.toString();
+    }
 }
