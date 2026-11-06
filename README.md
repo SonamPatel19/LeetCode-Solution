@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0720-longest-word-in-dictionary](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0720-longest-word-in-dictionary) |
 | [0867-transpose-matrix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0932-beautiful-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0720-longest-word-in-dictionary](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0720-longest-word-in-dictionary) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Divide and Conquer
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0720-longest-word-in-dictionary](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0720-longest-word-in-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1051-height-checker) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0720-longest-word-in-dictionary](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0720-longest-word-in-dictionary) |
 ## String Matching
 |  |
 | ------- |
