@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0210-course-schedule-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0210-course-schedule-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -464,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
