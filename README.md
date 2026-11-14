@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
+| [0743-network-delay-time](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1302-deepest-leaves-sum) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -471,4 +475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
