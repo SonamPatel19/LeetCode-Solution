@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0229-majority-element-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
