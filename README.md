@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0217-contains-duplicate) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0143-reorder-list) |
@@ -284,10 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SonamPatel19/LeetCode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bit Manipulation
 |  |
